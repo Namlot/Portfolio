@@ -1,0 +1,5 @@
+Small Unity game made with one partner
+
+Includes web build and supporting code (not full project).
+
+Game includes enemy AI, randomized map generation, and 2d movement
