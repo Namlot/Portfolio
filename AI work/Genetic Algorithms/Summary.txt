@@ -1,0 +1,16 @@
+Genetic Algorithm work
+
+Goal - find a secret code consisting of 11 randomized characters
+
+Parameters - Submitting a code will return the correctess of the code, how many characters are correct
+as well as how many characters are in the correct place.
+
+Process - 
+
+1. Randomness 100 different strings 
+2. Check Strings for correctness (fitness function)
+3. Trim strings that do not meet minimum fitness criteria
+4. cross-pair a number of strings
+5. mutate a number of strings
+6. repeat process until step 2 yields correct code
+

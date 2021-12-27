@@ -1,0 +1,11 @@
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\bin\Debug\netcoreapp3.1\SearchAlgo.exe
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\bin\Debug\netcoreapp3.1\SearchAlgo.deps.json
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\bin\Debug\netcoreapp3.1\SearchAlgo.runtimeconfig.json
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\bin\Debug\netcoreapp3.1\SearchAlgo.runtimeconfig.dev.json
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\bin\Debug\netcoreapp3.1\SearchAlgo.dll
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\bin\Debug\netcoreapp3.1\SearchAlgo.pdb
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\obj\Debug\netcoreapp3.1\SearchAlgo.csprojAssemblyReference.cache
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\obj\Debug\netcoreapp3.1\SearchAlgo.AssemblyInfoInputs.cache
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\obj\Debug\netcoreapp3.1\SearchAlgo.AssemblyInfo.cs
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\obj\Debug\netcoreapp3.1\SearchAlgo.dll
+C:\Users\relyatlaptop\source\repos\SearchAlgo\SearchAlgo\obj\Debug\netcoreapp3.1\SearchAlgo.pdb

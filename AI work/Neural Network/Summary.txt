@@ -1,0 +1,10 @@
+Neural Network
+
+Goal- Teach a neural network to perform bit parity
+
+Parameters - Given training data and a simple function that return if bit parity
+is true of false
+
+Process - Submit training data through neural network. Network uses input layer,
+hidden layers, and an output layer to output the probability of bit parity. Tweaks 
+network weights based on training responses. 

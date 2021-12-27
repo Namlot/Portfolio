@@ -1,0 +1,14 @@
+Search Algorithms
+
+Goal - Solve a 9 piece block puzzle with the assistance of search algorithms to sift
+through possible states
+
+Parameters - no special parameters
+
+Process-
+Code can use several different searches including:
+Depth first search
+Breadth first search
+Greedy search 
+A* with Manhattan distance
+A* with Real distance
