@@ -1,0 +1,86 @@
+<html>
+
+
+<head>
+  <script src="javascript/model.js">
+
+  </script>
+  <script src ="javascript/gameGrid.js">
+  </script>
+<link rel="stylesheet" type="text/css" href = "css/index_stylesheet.css">
+</head>
+
+  <body onload="createInputButton()">
+  <a href ="index.html"> Home </a>
+  <hr>
+  <h1> Memory </h1>
+  <hr>
+  <div class="box">
+  </div>
+
+
+
+
+  <br>
+  <h3>
+  Timer: <div id= "timerDiv" style="display: inline"> </div> Seconds &emsp;
+  </h3>
+  <br>
+  Score:
+  <div id="scoreDiv" style="display: inline"> </div>
+&emsp;
+  <br>
+
+    Your Name:
+    <input type="text" id = "playerName">
+  <br>
+Difficulty:   <select id ="selectDifficulty">
+    <option value="Easy">easy</option>
+    <option value="Medium">medium</option>
+    <option value="Hard">hard</option>
+  </select>
+  <br>
+Deck:  <select id ="selectDeck">
+    <option value="animal">animal</option>
+    <option value="fruit">fruit</option>
+  </select>
+  <br>
+
+  <button id = "startButton">
+    Start Game!
+  </button>
+
+
+  <br>
+
+  <button id ="loadGame">
+  LoadXML Stuff
+  </button>
+   Royalty free images from <a href = "https://www.pexels.com/royalty-free-images/"> PIXELS </a>
+
+
+ <div id="loginDiv">
+
+   </div>
+
+  <button id="clearButton">
+Mute Music
+ </button>
+
+
+ <button id="localStorageClear">
+   Clear Local storage
+ </button>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2> HALL OF FAME </h2>
+<div id="hallOfFame"> </div>
+</body>
+
+
+
+</html>

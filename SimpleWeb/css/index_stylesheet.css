@@ -1,0 +1,63 @@
+
+
+
+
+h1 {
+	text-align: center;
+
+
+}
+
+h2 {
+	text-align: center;
+	background-color: cyan;
+}
+
+figcaption {
+	font-size: 12;
+	text-align: center;
+}
+table {
+	border: solid 5pt black;
+	margin: 0 auto;
+	height: 480px;
+	width: 480px;
+	float: left;
+
+}
+img {
+	border: solid 5 black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 150px;
+    width: 150px;
+
+}
+td {
+	border: soft 5pt black;
+
+	font-size: 0px;
+}
+tr {
+	border: soft 50pt black;
+
+}
+
+#yellow {
+  color: blue;
+  text-decoration: underline;
+}
+#first {
+  color: blue;
+}
+.odd {
+  font-size: 60px;
+  background-color: green;
+}
+.even {
+  font-size: 60px;
+  background-color: yellow;
+}
+#HappyDiv {position: relative; top: 0; left: 0; height: 0;}
+#HappyImg {position: relative; top: 0; left: 0; bottom: 100; float: right}
